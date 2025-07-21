@@ -1,12 +1,12 @@
 {
   "settings": {
-    "baseFolder": "UBHub5/SaveFolder",
+    "baseFolder": "SweeHub/SaveFolder",
     "active": true
   },
   "games": [
     {
-      "gameId": "17574618959",
-      "name": "Baseplate",
+      "gameId": "94503612388426",
+      "name": "Be Fish",
       "configs": [
         {
           "name": "Test1",
